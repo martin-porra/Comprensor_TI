@@ -1,0 +1,1 @@
+# Modelado LZSS: codificación y decodificación de tokens (Fase 1)

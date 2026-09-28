@@ -1,0 +1,1 @@
+# Script para validar con el corpus y comprobar SHA-256
